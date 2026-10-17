@@ -1,0 +1,41 @@
+/* Shared adjustments and browser fallbacks belong here; original design tokens
+   and responsive rules are preserved in public/styles/original.css. */
+html { background: #301c13; overflow-x: clip; }
+body { margin: 0; }
+*, *::before, *::after { box-sizing: border-box; }
+button, a { -webkit-tap-highlight-color: transparent; }
+:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+}
+
+.detail-experience [data-component="transition-logo-mask"] {
+  width: 100%; height: auto !important; min-height: 100svh; overflow: visible !important;
+}
+.detail-experience [data-component="transition-logo-mask"] > .slot-wrapper {
+  position: relative !important; clip-path: none !important;
+}
+.missing-page {
+  min-height: 100svh; display: flex; flex-direction: column; align-items: center;
+  justify-content: center; gap: 28px; color: #ead0ba; text-align: center; padding: 30px;
+}
+.missing-page h1 { font-family: "Delta Season", serif; font-size: clamp(34px,5vw,70px); }
+.navigation-open { overflow: hidden; }
+.cookie-widget { position: fixed; left: 10px; bottom: 15px; z-index: 80; width: 48px; height: 48px; display: grid; place-items: center; border-radius: 50%; background: #141414; color: #fff; border: 0; cursor: pointer; box-shadow: 0 3px 10px #0002; }
+.cookie-widget svg { width: 31px; height: 25px; }
+.cookie-card { position: fixed; left: 18px; bottom: 76px; z-index: 81; width: min(370px, calc(100vw - 36px)); padding: 24px; border-radius: 12px; background: white; color: #222; box-shadow: 0 8px 50px #0005; font: 15px/1.45 Arial, sans-serif; }
+.cookie-card-top { display: flex; align-items: center; justify-content: space-between; font-size: 21px; }
+.cookie-card-top button { cursor: pointer; font-size: 28px; padding: 0 6px; }
+.cookie-card p { margin: 20px 0; }
+.cookie-card label { display: grid; grid-template-columns: 1fr auto; gap: 8px; border-top: 1px solid #ddd; padding: 16px 0; }
+.cookie-card label small { grid-column: 1/-1; color: #666; }
+.cookie-card input { width: 18px; height: 18px; accent-color: #332116; }
+.cookie-card .cookie-save, .cookie-card .cookie-reject { display: block; width: 100%; padding: 12px; margin-top: 10px; border-radius: 6px; cursor: pointer; border: 1px solid #35221a; }
+.cookie-card .cookie-save { background: #35221a; color: white; }
+.cookie-card > a { display: inline-block; margin-top: 18px; text-decoration: underline; }
+/* The hydrated grid is injected by the original Vue component without its
+   parent's scope attribute; retain the original mobile visibility rule. */
+@media (max-width: 743px) {
+  header[data-component="header"] .highlights-grid,
+  header[data-component="header"] .highlights-grid-bg-cell { display: none !important; }
+}

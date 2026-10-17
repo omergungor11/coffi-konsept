@@ -1,0 +1,854 @@
+{
+  "_type": "header",
+  "backgroundSlider": [
+    {
+      "cta": {
+        "label": "About Delta",
+        "to": {
+          "_type": "page.about",
+          "document": "page.about",
+          "locale": "en",
+          "media": [
+            {
+              "caption": null,
+              "duration": 2,
+              "height": 576,
+              "loop": false,
+              "mediaType": "video/mp4",
+              "muted": true,
+              "sources": [
+                {
+                  "duration": 2,
+                  "height": 576,
+                  "type": "video/mp4",
+                  "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-19T09-23-25.595Z-menu-about.mp4",
+                  "width": 900
+                }
+              ],
+              "type": "video",
+              "width": 900
+            },
+            {
+              "_key": "965450909779",
+              "alt": "About Delta",
+              "extension": "jpg",
+              "height": 320,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "965450909779",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/cf329b54fe19b444f33439a2a2580e6f48601fdc-500x320.jpg",
+              "width": 500
+            }
+          ],
+          "slug": "about"
+        }
+      },
+      "media": [
+        {
+          "caption": null,
+          "duration": 12.027122,
+          "height": 1080,
+          "loop": true,
+          "mediaType": "video/mp4",
+          "muted": true,
+          "sources": [
+            {
+              "duration": 12.027122,
+              "height": 1080,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+              "width": 1920
+            },
+            {
+              "duration": 12.027122,
+              "height": 720,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-28-54.839Z-homepage-mobile.mp4",
+              "width": 1280
+            }
+          ],
+          "type": "video",
+          "width": 1920
+        }
+      ],
+      "thumbnail": {
+        "_key": null,
+        "alt": "A robotic arm lifts multiple burlap sacks in an automated warehouse.",
+        "extension": "jpg",
+        "height": 720,
+        "hotspot": null,
+        "secondaryCaption": null,
+        "source": null,
+        "sourceList": null,
+        "type": "image",
+        "uid": null,
+        "url": "https://cdn.sanity.io/images/pcdkofnf/production/f0f69aff81fd15fba09ca70bcdf43e5e9fca029c-1280x720.jpg",
+        "width": 1280
+      },
+      "title": "Delta, coffee\nwith heart."
+    },
+    {
+      "cta": {
+        "label": "The Azores Coffee",
+        "to": {
+          "_type": "page.acores",
+          "document": "page.acores",
+          "locale": "pt",
+          "media": [
+            {
+              "caption": null,
+              "duration": 2,
+              "height": 819,
+              "loop": false,
+              "mediaType": "video/mp4",
+              "muted": true,
+              "sources": [
+                {
+                  "duration": 2,
+                  "height": 819,
+                  "type": "video/mp4",
+                  "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-10T14-16-48.360Z-acores-menu.mp4",
+                  "width": 1280
+                }
+              ],
+              "type": "video",
+              "width": 1280
+            },
+            {
+              "_key": "df87d39243fd",
+              "alt": null,
+              "extension": "jpg",
+              "height": 320,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "df87d39243fd",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/58196a9e00d675ce97e0b508d66d0c7dfff6c615-500x320.jpg",
+              "width": 500
+            }
+          ],
+          "slug": "cafe-dos-acores"
+        }
+      },
+      "media": [
+        {
+          "caption": null,
+          "duration": 14.64,
+          "height": 1080,
+          "loop": true,
+          "mediaType": "video/mp4",
+          "muted": true,
+          "sources": [
+            {
+              "duration": 14.64,
+              "height": 1080,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-10T10-58-39.357Z-header-açores-web.mp4",
+              "width": 1920
+            },
+            {
+              "duration": 14.64,
+              "height": 720,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T16-08-38.041Z-acores-mobile.mp4",
+              "width": 1280
+            }
+          ],
+          "type": "video",
+          "width": 1920
+        }
+      ],
+      "thumbnail": {
+        "_key": null,
+        "alt": "Aerial view of lush green coastal cliffs and fields meeting a dark blue sea, with a village on the hills under a cloudy sky.",
+        "extension": "jpg",
+        "height": 124,
+        "hotspot": null,
+        "secondaryCaption": null,
+        "source": null,
+        "sourceList": null,
+        "type": "image",
+        "uid": null,
+        "url": "https://cdn.sanity.io/images/pcdkofnf/production/cf53c4b8ead0290391d473affb2485032690aaa2-206x124.jpg",
+        "width": 206
+      },
+      "title": "The first\nPortuguese coffee."
+    },
+    {
+      "cta": null,
+      "media": [
+        {
+          "caption": null,
+          "duration": 8.75,
+          "height": 1010,
+          "loop": true,
+          "mediaType": "video/mp4",
+          "muted": true,
+          "sources": [
+            {
+              "duration": 8.75,
+              "height": 1010,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-30T09-33-02.919Z-delta-ha-muito-short-2.mp4",
+              "width": 1920
+            },
+            {
+              "duration": 8.75,
+              "height": 576,
+              "type": "video/mp4",
+              "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-30T09-33-56.996Z-delta-ha-muito-short-mobile.mp4",
+              "width": 1095
+            }
+          ],
+          "type": "video",
+          "width": 1920
+        }
+      ],
+      "thumbnail": {
+        "_key": null,
+        "alt": "An older woman drinks from a white cup, with fish drying racks and the sea in the background.",
+        "extension": "jpg",
+        "height": 124,
+        "hotspot": null,
+        "secondaryCaption": null,
+        "source": null,
+        "sourceList": null,
+        "type": "image",
+        "uid": null,
+        "url": "https://cdn.sanity.io/images/pcdkofnf/production/2ea2e09733aaa2f44783df1adcc4a1f86938bfa8-206x124.jpg",
+        "width": 206
+      },
+      "title": "There is a lot of\nPortugal in Delta."
+    }
+  ],
+  "highlights": [
+    {
+      "ctas": [
+        {
+          "description": "Discover Delta at Home products, crafted with passion to deliver quality, value, and reliable performance in every bean.",
+          "link": {
+            "_type": "page.products",
+            "document": "page.products",
+            "locale": "en",
+            "slug": "products"
+          },
+          "media": null,
+          "title": "Products"
+        }
+      ]
+    },
+    {
+      "ctas": [
+        {
+          "description": "Introducing the first 100% Portuguese coffee: sourced from the volcanic terroir of the Azores, cultivated by pioneering farmers, and recognised as Europe's only homegrown coffee.\n",
+          "link": {
+            "_type": "page.acores",
+            "document": "page.acores",
+            "locale": "en",
+            "slug": "the-azores-coffee"
+          },
+          "media": [
+            {
+              "_key": "8b3a00463b70",
+              "alt": "A brown kraft paper coffee bag with a black label for \"THE IMPOSSIBLE COFFEE\" featuring coffee cherries.",
+              "extension": "png",
+              "height": 176,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "8b3a00463b70",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/95916597284e9950bedfae2b0c6c68ca83f3d56d-112x176.png",
+              "width": 112
+            }
+          ],
+          "title": "The Azores coffee"
+        }
+      ]
+    },
+    {
+      "ctas": [
+        {
+          "description": "Delta Coffee Cycle: from the origin to the perfect blend. Discover the chapters of the ritual we have refined for over 60 years.\n",
+          "link": {
+            "_type": "page.coffeeCycle",
+            "document": "page.coffeeCycle",
+            "locale": "en",
+            "slug": "coffee-cycle"
+          },
+          "media": [
+            {
+              "_key": "de13748e81ad",
+              "alt": "Workers wearing conical hats harvest red coffee cherries from green plants, with baskets nearby.",
+              "extension": "jpg",
+              "height": 382,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "de13748e81ad",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/b06f5f5cb8a50e008ae0eddedc59240ef0e679f3-394x382.jpg",
+              "width": 394
+            }
+          ],
+          "title": "The coffee cycle"
+        },
+        {
+          "description": "We take an active role in society and focus on creating sustainable value. From origin to cup, we work to ensure that our impact remains consistently positive.",
+          "link": {
+            "_type": "page.sustainability",
+            "document": "page.sustainability",
+            "locale": "en",
+            "slug": "sustainability"
+          },
+          "media": [
+            {
+              "_key": "f0034a523e16",
+              "alt": "A burlap sack filled with roasted coffee beans, surrounded by coffee plants with red and green coffee cherries.",
+              "extension": "jpg",
+              "height": 388,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "f0034a523e16",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/eb95bfa4a69ffac638e5f26853c5c697d9addd54-400x388.jpg",
+              "width": 400
+            }
+          ],
+          "title": "Delta Sustainability"
+        }
+      ]
+    },
+    {
+      "ctas": [
+        {
+          "description": "More than 65 years of coffee, people, and moments: explore the history of Delta.",
+          "link": {
+            "_type": "page.history",
+            "document": "page.history",
+            "locale": "en",
+            "slug": "history"
+          },
+          "media": [
+            {
+              "_key": "42bef9f60684",
+              "alt": "An antique, rusty metal industrial machine with a central spherical drum, a large domed top, and a small green cap.",
+              "extension": "png",
+              "height": 250,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "42bef9f60684",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/3086abbc07e8e61d5a1bd668f34841b4f3bd2dfa-240x250.png",
+              "width": 240
+            }
+          ],
+          "title": "The History of delta"
+        },
+        {
+          "description": "How much do you know about coffee? Find out in a quick quiz and discover the coffee that suits you.",
+          "link": {
+            "_type": "page.quiz",
+            "document": "page.quiz",
+            "locale": "en",
+            "slug": "quiz"
+          },
+          "media": [
+            {
+              "_key": "6e4ff71b77ec",
+              "alt": null,
+              "extension": "png",
+              "height": 192,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": "6e4ff71b77ec",
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/7449709b4174a21f279d103553dacd63d454d97a-192x192.png",
+              "width": 192
+            }
+          ],
+          "title": "Quiz Delta"
+        }
+      ]
+    }
+  ],
+  "productsCarousel": [
+    {
+      "background": {
+        "animation": null,
+        "animationMobile": null,
+        "backgroundType": "video"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#ed5c10",
+        "altAccentColor": null,
+        "altBackgroundColor": "#be9a83",
+        "backgroundColor": "#35221a"
+      },
+      "media": [
+        {
+          "_key": "f8b4782d4c0a",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "f8b4782d4c0a",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/cc80cdfcde4a1f4b870fdb7ddf82bcdeee290a16-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "lote",
+      "subtitle": "Ground",
+      "title": "Lote Chávena",
+      "to": {
+        "_type": "page.product",
+        "category": "lote",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "chavena"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/f49286c8e023c26180e706205f444ef6d115cb6c.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/fe27923687fab45d9fb8bbbccf2c52162d9f0e49.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#d18300",
+        "altAccentColor": null,
+        "altBackgroundColor": null,
+        "backgroundColor": "#004438"
+      },
+      "media": [
+        {
+          "_key": "bd828f1b270f",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "bd828f1b270f",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/7ba5d7606e3ea4fc5264fa69416e6fd9420bb451-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "roasted",
+      "subtitle": "Ground",
+      "title": "Roast Portugal",
+      "to": {
+        "_type": "page.product",
+        "category": "roasted",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "portugal"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/7c43a3f807379f7873bd8342d4a10fe5a824a350.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/2f080fe02a1955fa20fb9279e32ff5ebf89edbc9.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#0187db",
+        "altAccentColor": "#81c5f1",
+        "altBackgroundColor": "#002988",
+        "backgroundColor": "#002988"
+      },
+      "media": [
+        {
+          "_key": "08999390e3b9",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "08999390e3b9",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/5bf7ae776f3b58af2031c266fa9d99dba5688556-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Colombia",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "colombia"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/bd31a8de9ca041cb76d64a3585074ed688cf615f.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/264a804fc95175835421205c84559793f8b501fb.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#b584cd",
+        "altAccentColor": "#b584cd",
+        "altBackgroundColor": "#3c0755",
+        "backgroundColor": "#3c0755"
+      },
+      "media": [
+        {
+          "_key": "18de6a9f1aba",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "18de6a9f1aba",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/646bc4149f0dca782b015c657bdc5c4037c8ee8b-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Timor",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "timor"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/e6254d8065fd4b7d655ea18f49f4218dc80495e2.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/a07f86a21b76cb4f5bdcd035c2ef433c0a13772c.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#001c3f",
+        "altAccentColor": "#8fc0e8",
+        "altBackgroundColor": "#0762a3",
+        "backgroundColor": "#0762a3"
+      },
+      "media": [
+        {
+          "_key": "4fad2c7c2509",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "4fad2c7c2509",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/b46986173d3e49922e9a867d20eaa515695deb04-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Cuba",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "cuba"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/b3c1f5d7029e48427215e7581f416bc5490cbb2f.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/1fbc9344c4bd015e5e3021842cca94d7cc75ba89.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#092d50",
+        "altAccentColor": null,
+        "altBackgroundColor": null,
+        "backgroundColor": "#940047"
+      },
+      "media": [
+        {
+          "_key": "2fefe41635b5",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "2fefe41635b5",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/a59d12bc818e95eb7e654af833fdcd8278f7eb89-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Vietnam",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "vietnam"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/5e7893654b63b36c0f00ea7108992092899f9507.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/74a1d89805230395a6cfac3839543af79e05b08b.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#063600",
+        "altAccentColor": "#93cb8c",
+        "altBackgroundColor": "#2b7b1e",
+        "backgroundColor": "#2b7b1e"
+      },
+      "media": [
+        {
+          "_key": "222b8df81352",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "222b8df81352",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/b7c9fb6b4bb9f707b45a9931f561af76d34af6ae-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Brazil",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "brazil"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/01c27ae4c471e1e17e637e2ca16195394362922c.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/020200908284bc3136ec18fe8a712f4e8b1b5ff6.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#8e100a",
+        "altAccentColor": "#e87b2f",
+        "altBackgroundColor": "#ce5e16",
+        "backgroundColor": "#ce5e16"
+      },
+      "media": [
+        {
+          "_key": "5cc88b96d149",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "5cc88b96d149",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/3d12868a6ddf06d001ad67224b41cd79a90a6dcd-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Angola",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "angola"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/c5c52ad34394d606c03184edc1f95ab611404197.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/ab7d58fa9d9e7a94c5a19bb3de8f0a11dfcab814.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#cd3905",
+        "altAccentColor": "#f5a800",
+        "altBackgroundColor": "#f5a800",
+        "backgroundColor": "#f5a800"
+      },
+      "media": [
+        {
+          "_key": "47a0a3416b64",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "47a0a3416b64",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/7cce7ac0f51041c61b69b34c3c1e7bfc4a8f69a2-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": "origens",
+      "subtitle": "Ground",
+      "title": "Ethiopia",
+      "to": {
+        "_type": "page.product",
+        "category": "origens",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "ethiopia"
+      }
+    },
+    {
+      "background": {
+        "animation": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/f2d988b1b0c3b50ad78bffa65de7f33ffd60c02d.riv"
+        },
+        "animationMobile": {
+          "fallbackImage": null,
+          "file": "https://cdn.sanity.io/files/pcdkofnf/production/43f29af3de02efdde0e665eca7d39ec127d8cf98.riv"
+        },
+        "backgroundType": "animation"
+      },
+      "category": "ground",
+      "colorSchema": {
+        "accentColor": "#296d10",
+        "altAccentColor": null,
+        "altBackgroundColor": "#296d10",
+        "backgroundColor": "#e0d1b7"
+      },
+      "media": [
+        {
+          "_key": "02daac830696",
+          "alt": null,
+          "extension": "png",
+          "height": 652,
+          "hotspot": null,
+          "secondaryCaption": null,
+          "source": null,
+          "sourceList": null,
+          "type": "image",
+          "uid": "02daac830696",
+          "url": "https://cdn.sanity.io/images/pcdkofnf/production/ac871c06e04663c50705a6d5a1cf3a48fec84e5c-532x652.png",
+          "width": 532
+        }
+      ],
+      "subcategory": null,
+      "subtitle": "Ground",
+      "title": "Bio",
+      "to": {
+        "_type": "page.product",
+        "category": "geral",
+        "document": "page.product",
+        "locale": "en",
+        "mainCategory": "ground",
+        "slug": "bio"
+      }
+    }
+  ]
+}

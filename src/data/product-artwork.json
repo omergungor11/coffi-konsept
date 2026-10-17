@@ -1,0 +1,626 @@
+{
+  "/en/products/bean/Lote/chavena": {
+    "intensity": 12,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-12.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-36-39.816Z-250517_Delta_Beans_Transparent_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-40.530Z-250517_Delta_Beans_Falling_Safari.mp4",
+        "type": "video/mp4",
+        "width": 2200,
+        "height": 1546
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-52.721Z-250517_Delta_Beans_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-29T14-59-44.307Z-260628_Delta_Beans.webm",
+        "type": "video/webm",
+        "width": 2200,
+        "height": 1546
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/bean/Lote/expresso-bar": {
+    "intensity": 14,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-14.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-28.222Z-Ground_Coffee_3k_40qual_10kkbs.webm",
+        "type": "video/webm",
+        "width": 3000,
+        "height": 2011
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-57.291Z-260603_Delta_Ground_Coffee_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-06-46.915Z-260603_Delta_Ground_Coffee_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 3000,
+        "height": 2010
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-07-06.248Z-260603_Delta_Ground_Coffee_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/bean/Lote/ritual": {
+    "intensity": 13,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-13.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-36-39.816Z-250517_Delta_Beans_Transparent_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-40.530Z-250517_Delta_Beans_Falling_Safari.mp4",
+        "type": "video/mp4",
+        "width": 2200,
+        "height": 1546
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-52.721Z-250517_Delta_Beans_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-29T14-59-44.307Z-260628_Delta_Beans.webm",
+        "type": "video/webm",
+        "width": 2200,
+        "height": 1546
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/bean/Lote/superior": {
+    "intensity": 13,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-13.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-36-39.816Z-250517_Delta_Beans_Transparent_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-40.530Z-250517_Delta_Beans_Falling_Safari.mp4",
+        "type": "video/mp4",
+        "width": 2200,
+        "height": 1546
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T14-54-52.721Z-250517_Delta_Beans_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-29T14-59-44.307Z-260628_Delta_Beans.webm",
+        "type": "video/webm",
+        "width": 2200,
+        "height": 1546
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/bean/signature/signature-crema": {
+    "intensity": 9,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-9.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-25-42.615Z-header-signature_crema-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-34-48.933Z-header-signature_crema-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/bean/signature/signature-intense": {
+    "intensity": 13,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-13.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-26-17.912Z-header-signature_intense-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-35-02.077Z-header-signature_intense-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/geral/bio": {
+    "intensity": 10,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-10.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-20-31.316Z-header-bio-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-28-28.456Z-header-bio-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/geral/decaf": {
+    "intensity": 9,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-9.svg",
+    "backgroundType": "animation",
+    "desktop": "",
+    "mobile": "",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/lote/chavena": {
+    "intensity": 12,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-12.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-28.222Z-Ground_Coffee_3k_40qual_10kkbs.webm",
+        "type": "video/webm",
+        "width": 3000,
+        "height": 2011
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-57.291Z-260603_Delta_Ground_Coffee_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-06-46.915Z-260603_Delta_Ground_Coffee_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 3000,
+        "height": 2010
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-07-06.248Z-260603_Delta_Ground_Coffee_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/ground/lote/ritual": {
+    "intensity": 13,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-13.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-28.222Z-Ground_Coffee_3k_40qual_10kkbs.webm",
+        "type": "video/webm",
+        "width": 3000,
+        "height": 2011
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-57.291Z-260603_Delta_Ground_Coffee_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-06-46.915Z-260603_Delta_Ground_Coffee_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 3000,
+        "height": 2010
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-07-06.248Z-260603_Delta_Ground_Coffee_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/ground/origens/angola": {
+    "intensity": 13,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-13.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-20-11.831Z-header-angola-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-28-12.607Z-header-angola-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/brazil": {
+    "intensity": 9,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-9.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-20-41.440Z-header-brazil-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-28-59.900Z-header-brazil-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/colombia": {
+    "intensity": 8,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-8.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-23-07.500Z-header-colombia-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-32-30.629Z-header-colombia-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/cuba": {
+    "intensity": 10,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-10.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-23-22.501Z-header-cuba-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-32-44.245Z-header-cuba-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/ethiopia": {
+    "intensity": 11,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-11.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-23-41.551Z-header-ethiopia-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-33-09.235Z-header-ethiopia-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/timor": {
+    "intensity": 10,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-10.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-26-41.630Z-header-timor-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-35-33.882Z-header-timor-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/origens/vietnam": {
+    "intensity": 12,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-12.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-26-56.568Z-header-vietnam-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-35-50.624Z-header-vietnam-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/roasted/portugal": {
+    "intensity": 12,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-12.svg",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-24-39.096Z-header-portugal-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-34-36.091Z-header-portugal-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/solubles/barley": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-22-30.283Z-header-cevada-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-30-23.201Z-header-cevada-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/solubles/iberian": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-24-10.662Z-header-iberica-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-33-56.168Z-header-iberica-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/ground/solubles/peninsular": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-24-26.576Z-header-peninsular-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-34-18.753Z-header-peninsular-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/hot-chocolate/classicos/chocolate-e-caramelo": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-30-50.625Z-260603_Delta_Hot_Chocolate_Caramel_Desktop.webm",
+        "type": "video/webm",
+        "width": 2500,
+        "height": 1725
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-31-08.909Z-260603_Delta_Hot_Chocolate_Caramel_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-41-31.468Z-260603_Delta_Hot_Chocolate_Caramel_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 2500,
+        "height": 1724
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-41-42.826Z-260603_Delta_Hot_Chocolate_Caramel_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/hot-chocolate/classicos/original": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-31-37.402Z-260603_Delta_Hot_Chocolate_Original_Desktop.webm",
+        "type": "video/webm",
+        "width": 2500,
+        "height": 1725
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-31-50.626Z-260603_Delta_Hot_Chocolate_Original_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-42-23.865Z-260603_Delta_Hot_Chocolate_Original_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 2500,
+        "height": 1724
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-16T10-42-35.759Z-260603_Delta_Hot_Chocolate_Original_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/pads/Lote/chavena": {
+    "intensity": 12,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-12.svg",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-28.222Z-Ground_Coffee_3k_40qual_10kkbs.webm",
+        "type": "video/webm",
+        "width": 3000,
+        "height": 2011
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-50-57.291Z-260603_Delta_Ground_Coffee_Mobile.webm",
+        "type": "video/webm",
+        "width": 780,
+        "height": 1906
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-06-46.915Z-260603_Delta_Ground_Coffee_Desktop_Safari.mp4",
+        "type": "video/mp4",
+        "width": 3000,
+        "height": 2010
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-15T16-07-06.248Z-260603_Delta_Ground_Coffee_Mobile_Safari.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": false
+  },
+  "/en/products/pads/geral/decaf": {
+    "intensity": 9,
+    "intensitySvg": "/imgs/product/intensity-badges/intensity-en-9.svg",
+    "backgroundType": "animation",
+    "desktop": "",
+    "mobile": "",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/cafes/classic": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-31-51.766Z-250710_DeltaCoffee_Intenso.mp4",
+        "type": "video/mp4",
+        "width": 2500,
+        "height": 1406
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-32-03.593Z-250710_DeltaCoffee_Intenso_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/cafes/decaf": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "",
+    "mobile": "",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/cafes/gold": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-23-55.157Z-header-gold-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-33-20.936Z-header-gold-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/cafes/instant-creamy-coffee": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-30-38.335Z-250710_DeltaCoffee_Creme.mp4",
+        "type": "video/mp4",
+        "width": 2000,
+        "height": 1124
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-30-49.814Z-250710_DeltaCoffee_Creme_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/cafes/intense": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "video",
+    "desktop": "",
+    "mobile": "",
+    "video": [
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-31-14.402Z-250513_Coffee_Swirl_Classic_Intensivo.mp4",
+        "type": "video/mp4",
+        "width": 2000,
+        "height": 1124
+      },
+      {
+        "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-06-05T16-31-25.021Z-250513_Coffee_Swirl_Classic_Intensivo_Mobile.mp4",
+        "type": "video/mp4",
+        "width": 780,
+        "height": 1906
+      }
+    ],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/barley": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-22-30.283Z-header-cevada-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-30-23.201Z-header-cevada-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/barley-chicory-and-rye": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "",
+    "mobile": "",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/cereals-and-coffee": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-20-58.482Z-header-cereais_cafe-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-29-19.052Z-header-cereais_cafe-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/cereals-and-fiber": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-21-40.102Z-header-cereais_fibra-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-29-42.398Z-header-cereais_fibra-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/cereals-chicory-and-coffee": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-21-25.108Z-header-cereais_chicoria-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-29-30.046Z-header-cereais_chicoria-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  },
+  "/en/products/soluble/solubles/chicory-and-coffee": {
+    "intensity": 0,
+    "intensitySvg": "",
+    "backgroundType": "animation",
+    "desktop": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-22-50.617Z-header-chicoria_cafe-intro.riv",
+    "mobile": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-08-04T14-30-36.975Z-header-chicoria_cafe-mobile.riv",
+    "video": [],
+    "videoMuted": true,
+    "videoLoop": true
+  }
+}

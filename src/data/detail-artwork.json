@@ -1,0 +1,2111 @@
+{
+  "coffee-cycle": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/list/0/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-52-17.279Z-cultura-step-1-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/1/list/1/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-17.062Z-cultura-step-2.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-30.702Z-cultura-step-2-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/1/list/2/background/0",
+        "sources": [
+          {
+            "duration": 13.625,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-59.635Z-cultura-step-3.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 13.625,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-12.115Z-cultura-step-3-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 3,
+        "payloadPath": "/1/list/3/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-45.464Z-cultura-step-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-24-53.342Z-cultura-step-4-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      }
+    ]
+  },
+  "coffee-cycle/blend": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/0",
+        "sources": [
+          {
+            "duration": 13.625,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-59.635Z-cultura-step-3.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 13.625,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-12.115Z-cultura-step-3-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/5/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-45.464Z-cultura-step-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-24-53.342Z-cultura-step-4-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background",
+        "sources": [
+          {
+            "duration": 33.791667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-02-48.885Z-about-teaser-desktop.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 33.791667,
+            "height": 1543,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-03-01.903Z-about-teaser-mobile.mp4",
+            "width": 1600
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "selector": "[data-component=\"header\"] .main-svg",
+        "url": "/imgs/about/about-header.svg"
+      },
+      {
+        "selector": "[data-component=\"header\"] .main-svg-mobile",
+        "url": "/imgs/about/about-header-mobile.svg"
+      }
+    ]
+  },
+  "coffee-cycle/roast": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-17.062Z-cultura-step-2.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-30.702Z-cultura-step-2-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/2/list/2/media/1",
+        "sources": [
+          {
+            "duration": 4.25,
+            "height": 1476,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-56-09.967Z-perfil-libertado-desktop.mp4",
+            "width": 2560
+          },
+          {
+            "duration": 4.25,
+            "height": 738,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-56-35.626Z-perfil-libertado-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/4/background/0",
+        "sources": [
+          {
+            "duration": 13.625,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-59.635Z-cultura-step-3.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 13.625,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-12.115Z-cultura-step-3-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      }
+    ]
+  },
+  "coffee-cycle/origins": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-52-17.279Z-cultura-step-1-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/5/background/1",
+        "sources": [
+          {
+            "duration": 4.833333,
+            "height": 2160,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-17T12-24-57.271Z-ciclo.mp4",
+            "width": 3080
+          },
+          {
+            "duration": 4.833333,
+            "height": 2160,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T14-22-31.599Z-ciclo-mobile.mp4",
+            "width": 1480
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/6/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-17.062Z-cultura-step-2.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-20-30.702Z-cultura-step-2-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      }
+    ],
+    "charts": [
+      {
+        "selector": "[data-component=\"notes\"] [data-component=\"pie-chart\"]",
+        "kind": "notes",
+        "items": [
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Especiarias",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/0c5f825b52a1f8d8b11de412204bdbc3b8b2a9b4-412x412.png",
+              "width": 412
+            },
+            "name": "Spices",
+            "percentage": null
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Tostadas",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/4ab7293357573926f118c8626eb89fbfdb8315ac-412x412.png",
+              "width": 412
+            },
+            "name": "Toasts",
+            "percentage": null
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Frutados",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/bdaaf3997e1886dbc6812efbccb04fd017aaf0d2-412x412.png",
+              "width": 412
+            },
+            "name": "Fruity",
+            "percentage": null
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Citrinos",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/7a8891c9747732d584212a22ad969b08ddc28c1e-412x412.png",
+              "width": 412
+            },
+            "name": "Citrus fruits",
+            "percentage": null
+          }
+        ]
+      }
+    ]
+  },
+  "business-solutions": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/background/0",
+        "sources": [
+          {
+            "duration": 8.6,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-28T15-57-14.616Z-bg.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 8.6,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T16-02-23.677Z-solucoes-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/5/background/0",
+        "sources": [
+          {
+            "duration": 31.08,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T14-51-01.135Z-delta.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 31.08,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T16-03-49.678Z-maquinas-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/8/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ],
+    "charts": [
+      {
+        "selector": "[data-component=\"varieties\"] [data-component=\"pie-chart\"]",
+        "kind": "varieties",
+        "items": [
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Café Grão",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/11fe756f0442bf03e9451c10b490e0dc14b0210d-412x412.png",
+              "width": 412
+            },
+            "name": "Whole Beans",
+            "percentage": 20
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Café Moído",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/9ccdf604680fc609121d23863c7a6a4f37382b71-412x412.png",
+              "width": 412
+            },
+            "name": "Ground Coffee",
+            "percentage": 20
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Cappucionos",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/22c55cecda946b490bb6a73f3113b2c0330d3656-412x412.png",
+              "width": 412
+            },
+            "name": "Cappuccino",
+            "percentage": 20
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Pastilhas",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/845e42f0dc47ae6ad11fe64bb002476cb1ff6dcb-412x412.png",
+              "width": 412
+            },
+            "name": "Tiles",
+            "percentage": 20
+          },
+          {
+            "description": null,
+            "image": {
+              "_key": null,
+              "alt": "Chocolate Quente",
+              "extension": "png",
+              "height": 412,
+              "hotspot": null,
+              "secondaryCaption": null,
+              "source": null,
+              "sourceList": null,
+              "type": "image",
+              "uid": null,
+              "url": "https://cdn.sanity.io/images/pcdkofnf/production/49cfccf44b6246627bc64599317cb83ce289d0fc-412x412.png",
+              "width": 412
+            },
+            "name": "Hot Chocolate",
+            "percentage": 20
+          }
+        ]
+      }
+    ]
+  },
+  "barista-academy": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/assets/0/media/0",
+        "sources": [
+          {
+            "duration": 23.124042,
+            "height": 640,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T15-40-00.493Z-academiabarista-1.mp4",
+            "width": 360
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/3/assets/2/media/0",
+        "sources": [
+          {
+            "duration": 27.148005,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T15-48-24.622Z-academy.mp4",
+            "width": 720
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/3/assets/4/media/0",
+        "sources": [
+          {
+            "duration": 34.411016,
+            "height": 640,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T15-43-07.679Z-moccino.mp4",
+            "width": 360
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 3,
+        "payloadPath": "/3/assets/6/media/0",
+        "sources": [
+          {
+            "duration": 36.229002,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T16-06-05.401Z-cafeteira-francesa.mp4",
+            "width": 720
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 4,
+        "payloadPath": "/3/assets/7/media/0",
+        "sources": [
+          {
+            "duration": 35.211003,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-04T16-07-19.818Z-cafe-gelado.mp4",
+            "width": 720
+          }
+        ]
+      }
+    ],
+    "lotties": [
+      {
+        "selector": "[data-component=\"lottie\"].roasting",
+        "url": "/lotties/barista-academy/roasting/roasting.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].acidity",
+        "url": "/lotties/barista-academy/acidity/acidity.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].expert",
+        "url": "/lotties/barista-academy/expert/expert.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].beans",
+        "url": "/lotties/barista-academy/beans/beans.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].coffee",
+        "url": "/lotties/barista-academy/coffee/coffee.json"
+      }
+    ]
+  },
+  "coffee-cycle/tasting": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/0",
+        "sources": [
+          {
+            "duration": 15,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-21-45.464Z-cultura-step-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T10-24-53.342Z-cultura-step-4-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/5/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-52-17.279Z-cultura-step-1-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      }
+    ]
+  },
+  "journal/innovation/delta-cafes-strengthens-its-presence-in-the-instant-segment-with-a-new-range-of-flavoured-cereals": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/articleContent/1/video/0/videoAsset",
+        "sources": [
+          {
+            "duration": 23.751156,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-11T15-35-16.427Z-yumm.mp4",
+            "width": 720
+          }
+        ]
+      }
+    ]
+  },
+  "journal/community/the-coffee-aptitude-test": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/2/item/background/0",
+        "sources": [
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-06T18-11-38.270Z-açores-footer-web.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T14-25-45.349Z-acores-footer-mobile.mp4",
+            "width": 920
+          }
+        ]
+      }
+    ]
+  },
+  "history": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/foregroundMedia/0",
+        "sources": [
+          {
+            "duration": 13.625,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-17-28.214Z-historia-entrada-desktop.mp4",
+            "width": 1280
+          },
+          {
+            "duration": 13.625,
+            "height": 338,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-17-37.503Z-historia-entrada-mobile.mp4",
+            "width": 600
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/7/blocks/1/video",
+        "sources": [
+          {
+            "duration": 194.986,
+            "height": 480,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-30T14-41-33.690Z-benfica-web.mp4",
+            "width": 640
+          },
+          {
+            "duration": 195.007,
+            "height": 240,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-25-17.381Z-benfica-mobile.mp4",
+            "width": 320
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/7/blocks/4/video",
+        "sources": [
+          {
+            "duration": 15.7,
+            "height": 576,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-28T17-42-18.232Z-herman-jose-web.mp4",
+            "width": 768
+          },
+          {
+            "duration": 15.722,
+            "height": 240,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T14-19-08.255Z-herman-jose-mobile.mp4",
+            "width": 320
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 3,
+        "payloadPath": "/8/blocks/2/video",
+        "sources": [
+          {
+            "duration": 30.65034,
+            "height": 240,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-30T14-45-00.098Z-figo.mp4",
+            "width": 350
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 4,
+        "payloadPath": "/9/blocks/0/video",
+        "sources": [
+          {
+            "duration": 30.036,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-30-36.297Z-DELTAQSpot-desktop.mp4",
+            "width": 1280
+          },
+          {
+            "duration": 30.036,
+            "height": 450,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-30-45.205Z-DELTAQSpot-mobile.mp4",
+            "width": 800
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 5,
+        "payloadPath": "/10/blocks/0/video",
+        "sources": [
+          {
+            "duration": 4.666667,
+            "height": 1200,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-07-03T16-54-59.467Z-optimized_260703_Delta_Mosaik_Parallax_Rotation.mp4",
+            "width": 1962
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 6,
+        "payloadPath": "/10/blocks/3/teaser",
+        "sources": [
+          {
+            "duration": 11.066667,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-38-36.226Z-rise-teaser-mobile.mp4",
+            "width": 720
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 7,
+        "payloadPath": "/10/blocks/4/teaser",
+        "sources": [
+          {
+            "duration": 24.16,
+            "height": 720,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-40-39.091Z-acores-historia-desktop.mp4",
+            "width": 1280
+          },
+          {
+            "duration": 24.16,
+            "height": 450,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-42-03.447Z-acores-historia-mobile.mp4",
+            "width": 800
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 8,
+        "payloadPath": "/12/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ],
+    "svgs": [
+      {
+        "selector": "[data-component=\"mayor-machines\"] .top .svg",
+        "url": "/imgs/history/mayorMachines/mayor-machine-top.svg"
+      },
+      {
+        "selector": "[data-component=\"mayor-machines\"] .bottom .svg",
+        "url": "/imgs/history/mayorMachines/mayor-machine-bottom.svg"
+      }
+    ]
+  },
+  "journal/press/delta-cafes-is-the-official-coffee-of-chefs-on-fire": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/articleContent/2/video/0/videoAsset",
+        "sources": [
+          {
+            "duration": 85.609116,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-11T13-02-18.042Z-chefs-on-fire-delta.mp4",
+            "width": 720
+          }
+        ]
+      }
+    ]
+  },
+  "journal/press/dive-into-the-rhythm-of-your-coffee-is-the-motto-of-delta-cafes-for-the-summer-festivals": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/articleContent/1/video/0/videoAsset",
+        "sources": [
+          {
+            "duration": 44.605375,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-11T15-16-49.084Z-AQOLeFmrq3lDV2ShpA7rdqwCdNNfh8ZPFaJ72s9Tg_uh5dgmzU67hZ7oCwRhCLjjTJd_F0ZNwgNPGXxk0DfbzdaskupqgYivHs8cEbk0mGyxJg.mp4",
+            "width": 720
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "journal/press/gala-dinner-coffee-of-the-guia-michelin-portugal-is-delta": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/1/articleContent/2/video/0/videoAsset",
+        "sources": [
+          {
+            "duration": 61.160042,
+            "height": 1280,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-11T16-07-31.752Z-AQN1hAtah5sJBoP6VIS27kSPyuuPVg00VKZkSzEcVyHy5Jtu6Gi8-wQLi-lymlbet3aDrzdaiqt0NYuCOvONrGpWDvuqVaWhyrTRPSrD3DrTPQ.mp4",
+            "width": 720
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/always-on-the-lapel": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/2/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/cafe-catoninho-of-sao-tome": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-06T18-11-38.270Z-açores-footer-web.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T14-25-45.349Z-acores-footer-mobile.mp4",
+            "width": 920
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/delta-house-on-tour-from-north-to-south": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/2/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/domuz-a-classic-at-the-service-of-mixology": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/2/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/if-there-were-no-coffee-i-would-be-nobody": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-01-06T18-11-38.270Z-açores-footer-web.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 24.16,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T14-25-45.349Z-acores-footer-mobile.mp4",
+            "width": 920
+          }
+        ]
+      }
+    ]
+  },
+  "journal/stories/the-most-special-coffee-bean": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/2/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/Lote/chavena": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/Lote/expresso-bar": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/Lote/ritual": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/signature/signature-crema": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/Lote/superior": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/bean/signature/signature-intense": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/geral/decaf": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/lote/ritual": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/geral/bio": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/origens/angola": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/origens/ethiopia": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/origens/colombia": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/origens/vietnam": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/solubles/barley": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/ground/solubles/iberian": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/hot-chocolate/classicos/chocolate-e-caramelo": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/hot-chocolate/classicos/original": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/pads/Lote/chavena": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/pads/geral/decaf": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/cafes/classic": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/cafes/decaf": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/cafes/gold": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/solubles/barley-chicory-and-rye": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/solubles/cereals-and-coffee": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/longing-and-timeless": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/classic-with-soul": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/media/0",
+        "sources": [
+          {
+            "duration": 22,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-27T16-35-05.392Z-classico-com-alma-desktop.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 22,
+            "height": 576,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-27T16-35-19.007Z-classico-com-alma-mobile.mp4",
+            "width": 1024
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "products/soluble/solubles/cereals-chicory-and-coffee": {
+    "videos": [
+      {
+        "selector": "[data-component=\"pre-footer\"] video",
+        "index": 0,
+        "payloadPath": "/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/warm-and-spontaneous": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/naturally-authentic": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/mindful-minimalist": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/media/0",
+        "sources": [
+          {
+            "duration": 21,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-20T14-11-20.350Z-mindful-web.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 21,
+            "height": 576,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-20T14-11-29.637Z-mindful-mobile.mp4",
+            "width": 1024
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/sensory-traveler": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "quiz/subtle-magnetic": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/3/item/background/0",
+        "sources": [
+          {
+            "duration": 12.027122,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-31T15-27-32.503Z-homepage.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 12.0271,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-09-40.658Z-homepage-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "sustainability": {
+    "videos": [
+      {
+        "selector": "video",
+        "index": 0,
+        "payloadPath": "/0/background/0",
+        "sources": [
+          {
+            "duration": 10,
+            "height": 2160,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T16-23-08.592Z-sustentabilidade.mp4",
+            "width": 3224
+          },
+          {
+            "duration": 10,
+            "height": 1286,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T16-05-24.750Z-sustentabilidade-mobile.mp4",
+            "width": 1920
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 1,
+        "payloadPath": "/4/rightColumn/video",
+        "sources": [
+          {
+            "duration": 30.186,
+            "height": 480,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T16-08-08.348Z-timor-mobile.mp4",
+            "width": 637
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 2,
+        "payloadPath": "/6/background/asset/0",
+        "sources": [
+          {
+            "duration": 19.666667,
+            "height": 2430,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2025-11-06T11-56-38.691Z-proj-acores.mp4",
+            "width": 3400
+          },
+          {
+            "duration": 19.666667,
+            "height": 915,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T16-25-48.368Z-proj-acores-mobile.mp4",
+            "width": 1280
+          }
+        ]
+      },
+      {
+        "selector": "video",
+        "index": 3,
+        "payloadPath": "/11/item/background/0",
+        "sources": [
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-04-01T09-48-55.275Z-cultura-step-1-4.mp4",
+            "width": 1920
+          },
+          {
+            "duration": 15.041667,
+            "height": 1080,
+            "type": "video/mp4",
+            "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-05-28T15-05-38.881Z-cultura-mobile.mp4",
+            "width": 1120
+          }
+        ]
+      }
+    ]
+  },
+  "the-azores-coffee": {
+    "lotties": [
+      {
+        "selector": "[data-component=\"lottie\"].terceira-island",
+        "url": "/lotties/acores-coffee/terceira-island-en/terceira-island.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].volcanoes",
+        "url": "/lotties/acores-coffee/volcanoes-en/volcanoes.json"
+      },
+      {
+        "selector": "[data-component=\"lottie\"].acores-flower",
+        "url": "/lotties/acores-coffee/acores-flower/acores-flower.json"
+      }
+    ]
+  }
+}

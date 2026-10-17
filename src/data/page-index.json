@@ -1,0 +1,447 @@
+{
+  "coffee-cycle": {
+    "file": "coffee-cycle.json",
+    "title": "From origin to \nthe perfect blend | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.coffeeCycle"
+  },
+  "coffee-cycle/blend": {
+    "file": "coffee-cycle__blend.json",
+    "title": "When the blend is perfect, \nthe signature is born | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.blend"
+  },
+  "about": {
+    "file": "about.json",
+    "title": "Global presence, \nlocal passion | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.about"
+  },
+  "coffee-cycle/roast": {
+    "file": "coffee-cycle__roast.json",
+    "title": "Roasting is \nrevelation | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.roast"
+  },
+  "coffee-cycle/origins": {
+    "file": "coffee-cycle__origins.json",
+    "title": "The secret lies \nin the origin | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.origins"
+  },
+  "business-solutions": {
+    "file": "business-solutions.json",
+    "title": "The ideal solution \nfor your business | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.businessSolutions"
+  },
+  "barista-academy": {
+    "file": "barista-academy.json",
+    "title": "The coffee experience, \nreinvented  | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.academy"
+  },
+  "coffee-cycle/tasting": {
+    "file": "coffee-cycle__tasting.json",
+    "title": "One coffee, many \nways to experience it | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.consume"
+  },
+  "journal": {
+    "file": "journal.json",
+    "title": "A collection \nof stories | Delta Cafés — Explore the world of coffee with Delta Cafés. Discover the tradition, quality, and passion behind every cup.",
+    "bodyClass": "page.journal"
+  },
+  "coffee-science-centre": {
+    "file": "coffee-science-centre.json",
+    "title": "History and science \nof your coffee | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.centre"
+  },
+  "journal/community/delta-cafes-and-clube-portugues-de-colecionadores-de-pacotes-de-acucar-promote-a-collectors-meeting-in-campo-maior": {
+    "file": "journal__community__delta-cafes-and-clube-portugues-de-colecionadores-de-pacotes-de-acucar-promote-a-collectors-meeting-in-campo-maior.json",
+    "title": "Delta Cafés and Clube Português de Colecionadores de Pacotes de Açúcar promote a collectors’ meeting in Campo Maior | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/innovation/delta-cafes-strengthens-its-presence-in-the-instant-segment-with-a-new-range-of-flavoured-cereals": {
+    "file": "journal__innovation__delta-cafes-strengthens-its-presence-in-the-instant-segment-with-a-new-range-of-flavoured-cereals.json",
+    "title": "Delta Cafés strengthens its presence in the instant segment with a new range of Flavoured Cereals | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/community/the-coffee-aptitude-test": {
+    "file": "journal__community__the-coffee-aptitude-test.json",
+    "title": "The coffee aptitude test | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "history": {
+    "file": "history.json",
+    "title": "Over 60 years \nof history | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.history"
+  },
+  "journal/press/delta-cafes-is-the-official-coffee-of-chefs-on-fire": {
+    "file": "journal__press__delta-cafes-is-the-official-coffee-of-chefs-on-fire.json",
+    "title": "Delta Cafés is the official coffee of Chefs on Fire | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/press/dive-into-the-rhythm-of-your-coffee-is-the-motto-of-delta-cafes-for-the-summer-festivals": {
+    "file": "journal__press__dive-into-the-rhythm-of-your-coffee-is-the-motto-of-delta-cafes-for-the-summer-festivals.json",
+    "title": "“Dive into the rhythm of your coffee” is the motto of Delta Cafés for the summer festivals | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/press/gala-dinner-coffee-of-the-guia-michelin-portugal-is-delta": {
+    "file": "journal__press__gala-dinner-coffee-of-the-guia-michelin-portugal-is-delta.json",
+    "title": "Gala Dinner Coffee of the Guia Michelin Portugal is Delta | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/press/winter-at-the-door-delta-cafes-warms-the-season-with-new-cappuccinos": {
+    "file": "journal__press__winter-at-the-door-delta-cafes-warms-the-season-with-new-cappuccinos.json",
+    "title": "Winter at the door? Delta Cafés warms the season with new cappuccinos | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/177-ways-to-grind-coffee": {
+    "file": "journal__stories__177-ways-to-grind-coffee.json",
+    "title": "177 ways to grind coffee | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/10-years-of-centro-de-ciencia-do-cafe": {
+    "file": "journal__stories__10-years-of-centro-de-ciencia-do-cafe.json",
+    "title": "10 years of Centro de Ciência do Café | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/press/lisbon-s-coolest-salami-now-comes-with-a-coffee-flavour": {
+    "file": "journal__press__lisbon-s-coolest-salami-now-comes-with-a-coffee-flavour.json",
+    "title": "Lisbon’s coolest salami now comes with a coffee flavour | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/press/moving-towards-the-global-top-10-in-coffee": {
+    "file": "journal__press__moving-towards-the-global-top-10-in-coffee.json",
+    "title": "Moving Towards the Global Top 10 in Coffee | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/always-on-the-lapel": {
+    "file": "journal__stories__always-on-the-lapel.json",
+    "title": "Always on the lapel | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/a-life-in-retrospect": {
+    "file": "journal__stories__a-life-in-retrospect.json",
+    "title": "A life in retrospect | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/cafe-catoninho-of-sao-tome": {
+    "file": "journal__stories__cafe-catoninho-of-sao-tome.json",
+    "title": "Café Catoninho of São Tomé | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/cafe-embraced-by-the-atlantic": {
+    "file": "journal__stories__cafe-embraced-by-the-atlantic.json",
+    "title": "Café embraced by the Atlantic | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/coracao-delta-20-years-20-stories": {
+    "file": "journal__stories__coracao-delta-20-years-20-stories.json",
+    "title": "Coração Delta: 20 years, 20 stories | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/catarina-barreiros": {
+    "file": "journal__stories__catarina-barreiros.json",
+    "title": "Catarina Barreiros | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/delta-cafes-launches-a-range-with-exclusive-rainforest-alliance-certification-for-the-horeca-channel": {
+    "file": "journal__stories__delta-cafes-launches-a-range-with-exclusive-rainforest-alliance-certification-for-the-horeca-channel.json",
+    "title": "Delta Cafés launches a range with exclusive Rainforest Alliance certification for the Horeca channel | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/delta-house-on-tour-from-north-to-south": {
+    "file": "journal__stories__delta-house-on-tour-from-north-to-south.json",
+    "title": "Delta House on Tour from north to south | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/delta-in-the-world": {
+    "file": "journal__stories__delta-in-the-world.json",
+    "title": "Delta in the world | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/festas-do-povo-the-history-of-a-town": {
+    "file": "journal__stories__festas-do-povo-the-history-of-a-town.json",
+    "title": "Festas do Povo: the history of a town | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/domuz-a-classic-at-the-service-of-mixology": {
+    "file": "journal__stories__domuz-a-classic-at-the-service-of-mixology.json",
+    "title": "Dómúz, a classic at the service of mixology | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/from-the-gym-to-the-cafe": {
+    "file": "journal__stories__from-the-gym-to-the-cafe.json",
+    "title": "From the gym to the café | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/if-there-were-no-coffee-i-would-be-nobody": {
+    "file": "journal__stories__if-there-were-no-coffee-i-would-be-nobody.json",
+    "title": "“If there were no coffee, I would be nobody.” | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/the-downtown-blend": {
+    "file": "journal__stories__the-downtown-blend.json",
+    "title": "The downtown blend | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "legal/cookie-policy": {
+    "file": "legal__cookie-policy.json",
+    "title": "Cookie Policy | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.legal"
+  },
+  "journal/stories/the-most-special-coffee-bean": {
+    "file": "journal__stories__the-most-special-coffee-bean.json",
+    "title": "The most special coffee bean | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "journal/stories/more-than-sugar-packets": {
+    "file": "journal__stories__more-than-sugar-packets.json",
+    "title": "More than sugar packets | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "legal/privacy-policy": {
+    "file": "legal__privacy-policy.json",
+    "title": "Privacy Policy | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.legal"
+  },
+  "legal/terms-and-conditions": {
+    "file": "legal__terms-and-conditions.json",
+    "title": "Terms and Conditions | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.legal"
+  },
+  "journal/stories/zero-waste-endless-creativity": {
+    "file": "journal__stories__zero-waste-endless-creativity.json",
+    "title": "Zero Waste. Endless Creativity | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.article"
+  },
+  "products": {
+    "file": "products.json",
+    "title": "Products | Delta Cafés — Explore the world of coffee with Delta Cafés. Discover the tradition, quality, and passion behind every cup.",
+    "bodyClass": "page.products"
+  },
+  "products/bean/Lote/chavena": {
+    "file": "products__bean__Lote__chavena.json",
+    "title": "Chávena (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/bean/Lote/expresso-bar": {
+    "file": "products__bean__Lote__expresso-bar.json",
+    "title": "Espresso Bar (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/bean/Lote/ritual": {
+    "file": "products__bean__Lote__ritual.json",
+    "title": "Ritual (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/bean/signature/signature-crema": {
+    "file": "products__bean__signature__signature-crema.json",
+    "title": "Signature Crema (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/bean/Lote/superior": {
+    "file": "products__bean__Lote__superior.json",
+    "title": "Superior (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/bean/signature/signature-intense": {
+    "file": "products__bean__signature__signature-intense.json",
+    "title": "Signature Intense (Beans) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/geral/decaf": {
+    "file": "products__ground__geral__decaf.json",
+    "title": "Decaf (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/lote/ritual": {
+    "file": "products__ground__lote__ritual.json",
+    "title": "Ritual (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/geral/bio": {
+    "file": "products__ground__geral__bio.json",
+    "title": "Bio (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/lote/chavena": {
+    "file": "products__ground__lote__chavena.json",
+    "title": "Chávena (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/brazil": {
+    "file": "products__ground__origens__brazil.json",
+    "title": "Brazil (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/angola": {
+    "file": "products__ground__origens__angola.json",
+    "title": "Angola (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/ethiopia": {
+    "file": "products__ground__origens__ethiopia.json",
+    "title": "Ethiopia (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/colombia": {
+    "file": "products__ground__origens__colombia.json",
+    "title": "Colombia (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/cuba": {
+    "file": "products__ground__origens__cuba.json",
+    "title": "Cuba (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/vietnam": {
+    "file": "products__ground__origens__vietnam.json",
+    "title": "Vietnam (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/roasted/portugal": {
+    "file": "products__ground__roasted__portugal.json",
+    "title": "Portugal (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/solubles/barley": {
+    "file": "products__ground__solubles__barley.json",
+    "title": "Barley (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/origens/timor": {
+    "file": "products__ground__origens__timor.json",
+    "title": "Timor (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/solubles/iberian": {
+    "file": "products__ground__solubles__iberian.json",
+    "title": "Iberian (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/ground/solubles/peninsular": {
+    "file": "products__ground__solubles__peninsular.json",
+    "title": "Peninsular (Ground) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/hot-chocolate/classicos/chocolate-e-caramelo": {
+    "file": "products__hot-chocolate__classicos__chocolate-e-caramelo.json",
+    "title": "Chocolate and Caramel (Hot Chocolate) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/hot-chocolate/classicos/original": {
+    "file": "products__hot-chocolate__classicos__original.json",
+    "title": "Chocolate Original (Hot Chocolate) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/pads/Lote/chavena": {
+    "file": "products__pads__Lote__chavena.json",
+    "title": "Chávena (Pads) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/pads/geral/decaf": {
+    "file": "products__pads__geral__decaf.json",
+    "title": "Decaf (Pads) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/cafes/classic": {
+    "file": "products__soluble__cafes__classic.json",
+    "title": "Classic (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/cafes/decaf": {
+    "file": "products__soluble__cafes__decaf.json",
+    "title": "Decaf (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/cafes/gold": {
+    "file": "products__soluble__cafes__gold.json",
+    "title": "Gold (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/cafes/instant-creamy-coffee": {
+    "file": "products__soluble__cafes__instant-creamy-coffee.json",
+    "title": "Instant Creamy Coffee (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/cafes/intense": {
+    "file": "products__soluble__cafes__intense.json",
+    "title": "Intense (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/solubles/barley-chicory-and-rye": {
+    "file": "products__soluble__solubles__barley-chicory-and-rye.json",
+    "title": "Barley, Chicory and Rye (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/solubles/barley": {
+    "file": "products__soluble__solubles__barley.json",
+    "title": "Barley (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/solubles/cereals-and-coffee": {
+    "file": "products__soluble__solubles__cereals-and-coffee.json",
+    "title": "Cereals and Coffee (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/solubles/cereals-and-fiber": {
+    "file": "products__soluble__solubles__cereals-and-fiber.json",
+    "title": "Cereals and Fiber (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "quiz": {
+    "file": "quiz.json",
+    "title": "Take the Delta \ncoffee quiz | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quiz"
+  },
+  "quiz/longing-and-timeless": {
+    "file": "quiz__longing-and-timeless.json",
+    "title": "Longing and Timeless | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "quiz/classic-with-soul": {
+    "file": "quiz__classic-with-soul.json",
+    "title": "Classic with Soul | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "products/soluble/solubles/cereals-chicory-and-coffee": {
+    "file": "products__soluble__solubles__cereals-chicory-and-coffee.json",
+    "title": "Cereals, Chicory and Coffee (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "products/soluble/solubles/chicory-and-coffee": {
+    "file": "products__soluble__solubles__chicory-and-coffee.json",
+    "title": "Chicory and Coffee (Soluble) | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.product"
+  },
+  "quiz/warm-and-spontaneous": {
+    "file": "quiz__warm-and-spontaneous.json",
+    "title": "Warm and Spontaneous | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "quiz/naturally-authentic": {
+    "file": "quiz__naturally-authentic.json",
+    "title": "Naturally Authentic | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "quiz/mindful-minimalist": {
+    "file": "quiz__mindful-minimalist.json",
+    "title": "Mindful Minimalist | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "quiz/sensory-traveler": {
+    "file": "quiz__sensory-traveler.json",
+    "title": "Sensory Traveler | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "quiz/subtle-magnetic": {
+    "file": "quiz__subtle-magnetic.json",
+    "title": "Subtle Magnetic | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.quizResult"
+  },
+  "sustainability": {
+    "file": "sustainability.json",
+    "title": "Positive impact, \nfrom origin to cup | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.sustainability"
+  },
+  "the-azores-coffee": {
+    "file": "the-azores-coffee.json",
+    "title": "The first \nportuguese coffee | Delta Cafés — The coffee of your life",
+    "bodyClass": "page.acores"
+  }
+}

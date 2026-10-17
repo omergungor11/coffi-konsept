@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1700 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="346" y="-4" width="1008" height="987" class="logo-filter">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#filter-clip);height:100%;width:100%"></div>
+</foreignObject>
+
+<g filter="url(#about-filter-desktop)">
+  <path d="M350 979C350.071 978.965 601.323 919.803 850 919.803C1098.64 919.803 1349.86 978.965 1350 979H350ZM1146.3 466.947C1046.15 270.912 850.317 0.41445 850 0L1350 979C1350 978.965 1246.53 663.189 1146.3 466.947ZM553.697 466.947C453.507 663.189 350 979 350 979L850 0C849.718 0.41445 653.852 270.912 553.697 466.947Z" fill="#35221A" fill-opacity="0.04" shape-rendering="crispEdges"/>
+</g>
+
+<defs>
+  <filter id="about-filter-desktop" x="346" y="-4" width="1008" height="987" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+    <feOffset dy="1"/>
+    <feComposite in2="hardAlpha" operator="out"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.55 0"/>
+    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_14449_29612"/>
+    <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_14449_29612" result="shape"/>
+    <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+    <feOffset dy="1"/>
+    <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+    <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.14 0"/>
+    <feBlend mode="normal" in2="shape" result="effect2_innerShadow_14449_29612"/>
+  </filter>
+  <clipPath id="filter-clip" transform="translate(-346 4)"><path d="M350 979C350.071 978.965 601.323 919.803 850 919.803C1098.64 919.803 1349.86 978.965 1350 979H350ZM1146.3 466.947C1046.15 270.912 850.317 0.41445 850 0L1350 979C1350 978.965 1246.53 663.189 1146.3 466.947ZM553.697 466.947C453.507 663.189 350 979 350 979L850 0C849.718 0.41445 653.852 270.912 553.697 466.947Z"/>
+  </clipPath>
+</defs>
+</svg>

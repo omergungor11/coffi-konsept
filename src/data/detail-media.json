@@ -1,0 +1,311 @@
+{
+  "/en/products/bean/Lote/chavena": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-05T09-58-55.827Z-lotechavena.mp4",
+      "duration": 18.735646
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-41-34.800Z-lotechavena-moido.mp4",
+      "duration": 28.443039
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T17-45-28.106Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/bean/Lote/expresso-bar": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T17-45-28.106Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/bean/Lote/ritual": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T14-46-42.661Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/bean/Lote/superior": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T14-46-42.661Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/bean/signature/signature-crema": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T17-45-28.106Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/bean/signature/signature-intense": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T17-45-28.106Z-grao-maquina.mp4",
+      "duration": 13.68
+    }
+  ],
+  "/en/products/ground/geral/bio": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-32-25.667Z-bio.mp4",
+      "duration": 24.960045
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/geral/decaf": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/lote/chavena": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-41-34.800Z-lotechavena-moido.mp4",
+      "duration": 28.443039
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-05T09-58-55.827Z-lotechavena.mp4",
+      "duration": 18.735646
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/lote/ritual": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-34-06.141Z-ritual1.mp4",
+      "duration": 16.873375
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-34-19.036Z-ritual2.mp4",
+      "duration": 17.556042
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-34-31.893Z-ritual3.mp4",
+      "duration": 26.921375
+    }
+  ],
+  "/en/products/ground/origens/angola": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/brazil": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-01-06.884Z-brazil.mp4",
+      "duration": 23.960136
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/colombia": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/cuba": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-01-50.651Z-cuba.mp4",
+      "duration": 6.244762
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/ethiopia": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/timor": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-02T17-42-00.602Z-timor.mp4",
+      "duration": 6.186667
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/origens/vietnam": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-02T17-38-57.141Z-get.mp4",
+      "duration": 27.11805
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-31-32.401Z-vietnam.mp4",
+      "duration": 6.613333
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-00-30.963Z-moido-maquina.mp4",
+      "duration": 11.32
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-18.124Z-moido-cafeteira.mp4",
+      "duration": 18.52
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-01-42.807Z-moido-cafeiteira-filtro.mp4",
+      "duration": 16.6
+    },
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-23T15-02-05.771Z-moido-prensa-francesa.mp4",
+      "duration": 16.12
+    }
+  ],
+  "/en/products/ground/roasted/portugal": [],
+  "/en/products/ground/solubles/barley": [],
+  "/en/products/ground/solubles/iberian": [],
+  "/en/products/ground/solubles/peninsular": [],
+  "/en/products/hot-chocolate/classicos/chocolate-e-caramelo": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-02T11-34-02.779Z-chocolate-quente.mp4",
+      "duration": 20.128844
+    }
+  ],
+  "/en/products/hot-chocolate/classicos/original": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-03-02T11-34-02.779Z-chocolate-quente.mp4",
+      "duration": 20.128844
+    }
+  ],
+  "/en/products/pads/Lote/chavena": [],
+  "/en/products/pads/geral/decaf": [],
+  "/en/products/soluble/cafes/classic": [],
+  "/en/products/soluble/cafes/decaf": [],
+  "/en/products/soluble/cafes/gold": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-31-54.258Z-gold.mp4",
+      "duration": 33.601292
+    }
+  ],
+  "/en/products/soluble/cafes/instant-creamy-coffee": [],
+  "/en/products/soluble/cafes/intense": [],
+  "/en/products/soluble/solubles/barley": [],
+  "/en/products/soluble/solubles/barley-chicory-and-rye": [],
+  "/en/products/soluble/solubles/cereals-and-coffee": [],
+  "/en/products/soluble/solubles/cereals-and-fiber": [],
+  "/en/products/soluble/solubles/cereals-chicory-and-coffee": [
+    {
+      "url": "https://burospaces1.fra1.cdn.digitaloceanspaces.com/delta/2026-02-27T12-31-04.968Z-chicoriacafe.mp4",
+      "duration": 10.956961
+    }
+  ],
+  "/en/products/soluble/solubles/chicory-and-coffee": []
+}

@@ -1,0 +1,294 @@
+{
+  "personas": [
+    {
+      "title": "Persona 7 - Naturally Authentic",
+      "slug": "naturally-authentic"
+    },
+    {
+      "title": "Persona 6 - Subtle Magnetic",
+      "slug": "subtle-magnetic"
+    },
+    {
+      "title": "Persona 3 - Warm and Spontaneous",
+      "slug": "warm-and-spontaneous"
+    },
+    {
+      "title": "Persona 5 - Sensory Traveler",
+      "slug": "sensory-traveler"
+    },
+    {
+      "title": "Persona 2 - Mindful Minimalist",
+      "slug": "mindful-minimalist"
+    },
+    {
+      "title": "Persona 1 - Classic with Soul",
+      "slug": "classic-with-soul"
+    },
+    {
+      "title": "Persona 4 - Nostalgic and Timeless",
+      "slug": "longing-and-timeless"
+    }
+  ],
+  "questions": [
+    [
+      [
+        {
+          "persona": "Persona 1 - Classic with Soul",
+          "points": 4
+        },
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 3
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 1
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 4
+        },
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 3
+        },
+        {
+          "persona": "Persona 1 - Classic with Soul",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 4
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 3
+        },
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 2
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "persona": "Persona 1 - Classic with Soul",
+          "points": 4
+        },
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 3
+        },
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 1
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 4
+        },
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 3
+        },
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 1
+        },
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 4
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 3
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 2
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "persona": "Persona 1 - Classic with Soul",
+          "points": 4
+        },
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 3
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 4
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 3
+        },
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 1
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 4
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 3
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 2
+        },
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 1
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 4
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 3
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 4
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 3
+        },
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 4
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 4
+        },
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "persona": "Persona 4 - Nostalgic and Timeless",
+          "points": 4
+        },
+        {
+          "persona": "Persona 1 - Classic with Soul",
+          "points": 3
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 1
+        },
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 2 - Mindful Minimalist",
+          "points": 4
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 3
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 1
+        }
+      ],
+      [
+        {
+          "persona": "Persona 5 - Sensory Traveler",
+          "points": 4
+        },
+        {
+          "persona": "Persona 6 - Subtle Magnetic",
+          "points": 3
+        },
+        {
+          "persona": "Persona 7 - Naturally Authentic",
+          "points": 2
+        },
+        {
+          "persona": "Persona 3 - Warm and Spontaneous",
+          "points": 1
+        }
+      ]
+    ]
+  ]
+}
